@@ -14,8 +14,8 @@
 <br/>
 
 <a href="https://github.com/gbc8">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbc8&theme=merko&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbc8&theme=merko&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbc&theme=merko&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbc&theme=merko&layout=compact" />
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
