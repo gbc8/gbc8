@@ -7,9 +7,8 @@
 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
 - 💻 &nbsp; Front-End Developer and Web Designer at Accelera Vendas.
-- ✏ &nbsp; Blog writer on my website <a href="ramom.com.br">ramom.com.br</a>.
-- 📚 &nbsp; Learning more about React and NodeJS.
-- 🎹 &nbsp; Music Lover | Pianist | Guitar Player
+- 📚 &nbsp; Learning more about Programming and Algorithms.
+- 🎹 &nbsp; Music Lover | Guitar Player
 
 <h3>🛠 Tech Stack</h3>
 
