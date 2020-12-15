@@ -6,7 +6,6 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
-- 💻 &nbsp; Front-End Developer and Web Designer at Accelera Vendas.
 - 📚 &nbsp; Learning more about Programming and Algorithms.
 - 🎹 &nbsp; Music Lover | Guitar Player
 
