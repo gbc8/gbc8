@@ -1,9 +1,7 @@
-### Hi there, Gabriel 👋
-
 <!--
 **gbc8/gbc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2> Hey there! I'm Ramom.</h2>
+<h2> Hey there! I'm Gabriel.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -15,16 +13,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 🌐 &nbsp; Javascript | HTML | CSS | ReactJS | Learning Node.s / Typescript
-- 🛢 &nbsp; MySQL | MongoDB 
-- 🔧 &nbsp; Git
-- 🖥 &nbsp; Wordpress
-
 <br/>
 
-<a href="https://github.com/Ramomjcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ramomjcs&theme=merko&show_icons=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramomjcs&theme=merko&layout=compact" />
+<a href="https://github.com/gbc8">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gbc8&theme=merko&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbc8&theme=merko&layout=compact" />
 </a>
 
 <h3> 🤝🏻 Connect with Me </h3>
