@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi there, Gabriel 👋
 
 <!--
 **gbc8/gbc8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <h2> Hey there! I'm Ramom.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
