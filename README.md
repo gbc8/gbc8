@@ -21,5 +21,5 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="mailto:contato@ramom.com.br"><img alt="Email" src="https://img.shields.io/badge/Email-contato@ramom.com.br-black?style=flat-square&logo=gmail"></a>
+<a href="mailto:gbc7@cin.ufpe.br"><img alt="Email" src="https://img.shields.io/badge/Email-gbc7@cin.ufpe.br-black?style=flat-square&logo=gmail"></a>
 </p>
