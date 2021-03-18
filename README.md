@@ -10,7 +10,8 @@
 - 🎹 &nbsp; Music Lover | Guitar Player
 
 <h3>🛠 Tech Stack</h3>
-
+- C++
+- Java
 <br/>
 
 <a href="https://github.com/gbc8">
