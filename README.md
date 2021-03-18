@@ -10,7 +10,7 @@
 - 🎹 &nbsp; Music Lover | Guitar Player
 
 <h3>🛠 Tech Stack</h3>
-- C++
+- C++\
 - Java
 <br/>
 
