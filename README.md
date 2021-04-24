@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🎓 &nbsp; Studying Computer Science at Federal University of Pernambuco.
+- 🎓 &nbsp; Studying Computer Science at CIn - UFPE.
 - 📚 &nbsp; Learning more about Programming and Algorithms.
 - 🎹 &nbsp; Music Lover | Guitar Player
 
